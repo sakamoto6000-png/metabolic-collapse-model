@@ -1,4 +1,5 @@
 # metabolic-collapse-model
+Research-oriented theoretical framework based on integrated public genomic datasets (ADSP, NIAGADS, dbGaP, BioBank Japan, DIAGRAM, AGEN). This repository presents statistical and mathematical disease-structure models and is not a clinical diagnostic system.
 Unified mathematical model of metabolic collapse integrating APOE, TREM2, PSEN1, and OTULIN dynamics based on East Asian genomic statistical structure.
 Unified Mathematical Model of Metabolic Collapse
 Integrating APOE, TREM2, PSEN1, and OTULIN dynamics based on East Asian genomic statistical structure.
